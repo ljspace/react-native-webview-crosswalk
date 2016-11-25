@@ -1,6 +1,6 @@
 'use strict';
 
-var version = '20.50.533.12';
+var version = '18.48.477.13-arm';
 var beta    = '';
 
 var exec = require('child_process').exec;
